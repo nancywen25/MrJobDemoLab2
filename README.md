@@ -1,4 +1,6 @@
 # MrJobDemoLab2
+python MrJob_CommonFriends.py ../Friends.csv
+
 This demo shows how to find common friends between two individuals using Map-Reduce and MRJob. Data is given in the Friends.csv file, and is in the format:
 
 |Individual|Friend|
